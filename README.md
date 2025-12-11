@@ -8,3 +8,5 @@ Runner Game
 - another remote player to sync the movement.
 
 - APK file in Build Folder
+- Added a reference gameplay video inside Video folder.
+
