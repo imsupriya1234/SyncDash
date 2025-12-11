@@ -6,3 +6,5 @@ Runner Game
 - Score and Life mechanism.
 - Ads integration [admob for dummy ads].
 - another remote player to sync the movement.
+
+- APK file in Build Folder
